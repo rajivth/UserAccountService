@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dataoneio</groupId>
 	<artifactId>userAccountService_9080</artifactId>
-	<version>0.0.1T</version>
+	<version>0.0.1</version>
 	<name>UserAccountService</name>
 	<description>Demo project for Spring Boot</description>
 
